@@ -1,0 +1,10 @@
+spring:
+  application:
+    name:SpringbootConfigServer
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/venkateshjava1990/SpringbootConfigServer.git
+          username: venkateshjava1990
+          password: Venkat_225
