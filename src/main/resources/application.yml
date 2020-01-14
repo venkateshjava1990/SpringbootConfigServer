@@ -1,6 +1,9 @@
+server:
+  port: 8818
+
 spring:
   application:
-    name:SpringbootConfigServer
+    name: SpringbootConfigServer
   cloud:
     config:
       server:
